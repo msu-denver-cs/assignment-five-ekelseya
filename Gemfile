@@ -70,4 +70,4 @@ gem 'jquery-ui-rails'
 # Commented out for SPA
 
 # Rack-cors is Rack middleware for handling Cross-Origin Resource Sharing
-gem 'rack-cors', require: 'rack/cors'
+gem 'rack-cors', '~> 0.4.0'
